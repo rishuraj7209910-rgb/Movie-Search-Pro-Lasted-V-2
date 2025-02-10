@@ -363,7 +363,7 @@ Developer : <a href='https://t.me/satyajeetkumarofficial'>ᴍʀ.sᴀᴛʏᴀᴊ�
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="https://t.me/ProBotsUpdate">Example</a>
+/set_template - set IMDb template <a href="ProBotsDiscussionsGroup">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial {tutorial link} - set 1 verification tutorial 
 /set_tutorial_2 {tutorial link} - set 2 verification tutorial 
