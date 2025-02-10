@@ -363,7 +363,7 @@ Developer : <a href='https://t.me/satyajeetkumarofficial'>ᴍʀ.sᴀᴛʏᴀᴊ�
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="ProBotsDiscussionsGroup">Example</a>
+/set_template - set IMDb template <a href="https://t.me/ProBotsUpdate">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial {tutorial link} - set 1 verification tutorial 
 /set_tutorial_2 {tutorial link} - set 2 verification tutorial 
@@ -376,4 +376,4 @@ Developer : <a href='https://t.me/satyajeetkumarofficial'>ᴍʀ.sᴀᴛʏᴀᴊ�
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs 
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
-Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/ProBotsSupportGroup">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/satyajeetkumarofficial">ᴀᴅᴍɪɴ</a></b>"""
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/ProBotsDiscussionsGroup">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/satyajeetkumarofficial">ᴀᴅᴍɪɴ</a></b>"""
