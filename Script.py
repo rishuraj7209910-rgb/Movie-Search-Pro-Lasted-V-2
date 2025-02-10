@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """"<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}\n\n𝖩𝗈𝗂𝗇➥ <a href="https://t.me/MoviesSearchPro">𝐌𝐨𝐯𝐢𝐞 𝐒𝐞𝐚𝐫𝐜𝐡 𝐏𝐫𝐨</a></b>"""
+    FILE_CAPTION = """"<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/MoviesSearchPro">𝐌𝐨𝐯𝐢𝐞 𝐒𝐞𝐚𝐫𝐜𝐡 𝐏𝐫𝐨</a>」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
