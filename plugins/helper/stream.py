@@ -25,8 +25,8 @@ async def stream_start(client, message):
             file_id=fileid,
         )
         fileName = {quote_plus(get_name(log_msg))}
-        stream = f"{URL}watch/{log_msg.id}/{fileName}?hash={get_hash(log_msg)}"
-        download = f"{URL}{log_msg.id}/{fileName}?hash={get_hash(log_msg)}"
+        stream = f"{URL}watch/{log_msg.id}/{file.file_name}?hash={get_hash(log_msg)}"
+        download = f"{URL}{log_msg.id}/{file.file_name}?hash={get_hash(log_msg)}"
  
         await log_msg.reply_text(
             text=f"•• ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴇᴅ ꜰᴏʀ ɪᴅ #{user_id} \n•• ᴜꜱᴇʀɴᴀᴍᴇ : {username} \n\n•• ᖴᎥᒪᗴ Nᗩᗰᗴ : {fileName}",
